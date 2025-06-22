@@ -190,9 +190,8 @@ GET `/episodes`
 
 ## 🔗 GitHub Repository
 
-[https://github.com/<your-username>/late-show-api-challenge](https://github.com/<your-username>/late-show-api-challenge)
 
----
+--- https://github.com/abdiiri/Flask-Code-Challenge-Late-Show-API.git
 
 ## 💡 Notes
 
